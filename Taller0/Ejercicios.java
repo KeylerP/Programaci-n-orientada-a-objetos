@@ -218,7 +218,7 @@ public class Ejercicios{
 
         // Ejercicio 6: un objeto Estudiante creado y llenado manualmente
         Estudiante est1 = new Estudiante();
-        est1.nombre   = "Laura Martínez";
+        est1.nombre   = "Keyler Porto";
         est1.codigo   = "2024-001";
         est1.semestre = 2;
         est1.mostrarInfo();
