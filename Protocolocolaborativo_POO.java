@@ -341,7 +341,7 @@ class TestError {
 //  CLASE PRINCIPAL - main
 // ============================================================
 
-public class TalleresUnidad2_POO {
+public class Protocolocolaborativo_POO {
 
     public static void main(String[] args) {
 
